@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Colecciones/Colecciones.iml" filepath="$PROJECT_DIR$/Colecciones/Colecciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Curso-Java.iml" filepath="$PROJECT_DIR$/.idea/Curso-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjercicioVuelos/EjercicioVuelos.iml" filepath="$PROJECT_DIR$/EjercicioVuelos/EjercicioVuelos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjercioAlmancenAndVerduleria-main/EjercioAlmancenAndVerduleria-main.iml" filepath="$PROJECT_DIR$/EjercioAlmancenAndVerduleria-main/EjercioAlmancenAndVerduleria-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfacesRepositorio/InterfacesRepositorio.iml" filepath="$PROJECT_DIR$/InterfacesRepositorio/InterfacesRepositorio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProyectoFruteria/ProyectoFruteria.iml" filepath="$PROJECT_DIR$/ProyectoFruteria/ProyectoFruteria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arreglosJava-main/arreglosJava-main.iml" filepath="$PROJECT_DIR$/arreglosJava-main/arreglosJava-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaProgramacionOrientadaAObjecto-main/javaProgramacionOrientadaAObjecto-main.iml" filepath="$PROJECT_DIR$/javaProgramacionOrientadaAObjecto-main/javaProgramacionOrientadaAObjecto-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo-excepciones/poo-excepciones.iml" filepath="$PROJECT_DIR$/poo-excepciones/poo-excepciones.iml" />
+    </modules>
+  </component>
+</project>
